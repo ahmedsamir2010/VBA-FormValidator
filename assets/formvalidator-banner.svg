@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="420" viewBox="0 0 1280 420" role="img" aria-labelledby="title desc">
+  <title id="title">FormValidator — Smarter forms. Cleaner data.</title>
+  <desc id="desc">A standalone VBA UserForm validation library by Ahmed Samir. Illustrated in slate blue and light blue on notebook paper.</desc>
+  <defs>
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><path d="M26 0H0v26" fill="none" stroke="#3B5364" stroke-opacity=".055"/></pattern>
+  </defs>
+  <rect width="1280" height="420" rx="20" fill="#FFFDF8"/>
+  <rect x="1" y="1" width="1278" height="418" rx="19" fill="url(#grid)" stroke="#DFE7EB"/>
+  <path d="M47 110V52h58" fill="none" stroke="#9DC2D9" stroke-width="2" stroke-linecap="round"/>
+  <g font-family="Arial,Helvetica,sans-serif">
+    <rect x="67" y="57" width="52" height="52" rx="13" fill="#3B5364"/>
+    <path d="m79 85 9 9 19-24" fill="none" stroke="#9DC2D9" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="135" y="81" fill="#3B5364" font-size="25" font-weight="700" letter-spacing="-1">FormValidator.</text>
+    <text x="136" y="103" fill="#738C9D" font-size="10" letter-spacing="1.6">BY AHMED SAMIR</text>
+    <rect x="335" y="62" width="53" height="25" rx="5" fill="#E7F0F5" stroke="#C9DCE7"/>
+    <text x="361" y="79" fill="#56798E" font-size="12" text-anchor="middle" font-family="Consolas,monospace">v2.0</text>
+    <text x="67" y="192" fill="#3B5364" font-size="53" font-weight="700" letter-spacing="-2">Smarter forms.</text>
+    <path d="M66 260q208-13 382-3" fill="none" stroke="#9DC2D9" stroke-width="14" stroke-linecap="round" opacity=".75"/>
+    <text x="67" y="251" fill="#3B5364" font-size="53" font-weight="700" letter-spacing="-2">Cleaner data.</text>
+    <text x="69" y="297" fill="#6F8491" font-size="17">Flexible validation for your Excel UserForms.</text>
+    <text x="69" y="351" fill="#3B5364" font-size="12" letter-spacing=".3">ONE VBA CLASS</text>
+    <circle cx="196" cy="347" r="2" fill="#9DC2D9"/>
+    <text x="211" y="351" fill="#3B5364" font-size="12" letter-spacing=".3">8 CONTROL TYPES</text>
+    <circle cx="350" cy="347" r="2" fill="#9DC2D9"/>
+    <text x="365" y="351" fill="#3B5364" font-size="12" letter-spacing=".3">YOUR OWN RULES</text>
+    <g transform="translate(740 61)">
+      <path d="M-8 11 434 0l12 279-444 13z" fill="#E7F0F5" stroke="#9DC2D9" stroke-width="1.4"/>
+      <rect width="432" height="280" rx="10" fill="#FFFFFF" stroke="#B9CDD9"/>
+      <path d="M10 0h412a10 10 0 0 1 10 10v26H0V10A10 10 0 0 1 10 0z" fill="#EAF1F5"/>
+      <circle cx="17" cy="18" r="3" fill="#BAA5A0"/><circle cx="29" cy="18" r="3" fill="#BACAD4"/><circle cx="41" cy="18" r="3" fill="#BACAD4"/>
+      <text x="59" y="22" fill="#6F8999" font-size="10" font-family="Consolas,monospace">CustomerForm.xlsm</text>
+      <text x="25" y="73" fill="#3B5364" font-size="17" font-weight="700">Check first. Then continue.</text>
+      <text x="25" y="107" fill="#6F8491" font-size="11">Email address</text>
+      <rect x="25" y="117" width="380" height="35" rx="5" fill="#FBFDFC" stroke="#A5C4B6"/>
+      <text x="37" y="139" fill="#3B5364" font-size="11" font-family="Consolas,monospace">ahmed@example.com</text>
+      <path d="m380 132 5 5 9-10" fill="none" stroke="#527F6C" stroke-width="2" stroke-linecap="round"/>
+      <rect x="25" y="171" width="15" height="15" rx="3" fill="#3B5364"/><path d="m29 178 3 3 5-6" fill="none" stroke="#FFFFFF" stroke-width="1.5"/>
+      <text x="49" y="182" fill="#6F8491" font-size="11">I accept the terms and conditions</text>
+      <rect x="25" y="208" width="142" height="37" rx="6" fill="#3B5364"/>
+      <text x="96" y="231" fill="#FFFFFF" font-size="11" font-weight="700" text-anchor="middle">Validate input</text>
+      <text x="188" y="231" fill="#527F6C" font-size="10">All checks passed.</text>
+    </g>
+    <g transform="translate(708 324) rotate(-2)"><rect width="339" height="44" rx="7" fill="#3B5364"/><text x="17" y="28" fill="#9DC2D9" font-size="14" font-family="Consolas,monospace">If <tspan fill="#F5FAFC">v.ValidateAll</tspan> Then</text><path d="m302 23 5 5 12-14" fill="none" stroke="#B5D6C7" stroke-width="2" stroke-linecap="round"/></g>
+    <path d="m1210 335 3 12 12 4-12 4-3 12-4-12-12-4 12-4z" fill="none" stroke="#93B6CB" stroke-width="1.5"/>
+    <path d="M1190 58q33-7 40 21m-11-3 12 7 3-13" fill="none" stroke="#94B5C9" stroke-width="1.5" stroke-linecap="round"/>
+  </g>
+</svg>
